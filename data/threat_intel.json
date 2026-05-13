@@ -1,0 +1,17 @@
+{
+  "185.231.112.45": {
+    "risk_score": 9.6,
+    "threat_type": "Brute Force Login",
+    "source": "MockTI"
+  },
+  "201.99.23.77": {
+    "risk_score": 8.9,
+    "threat_type": "Data Exfil Host",
+    "source": "MockTI"
+  },
+  "44.23.17.200": {
+    "risk_score": 6.5,
+    "threat_type": "Suspicious ASN",
+    "source": "MockTI"
+  }
+}

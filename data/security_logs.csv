@@ -1,0 +1,151 @@
+timestamp,user,source_ip,destination_ip,country,event_type,status,bytes,user_agent,message
+2025-07-20 08:50:00,jsmith,44.71.52.174,10.0.0.5,US,login,success,0,Linux,login success
+2025-07-20 09:00:00,jsmith,185.231.112.45,10.0.0.5,US,login,fail,0,Windows,login fail
+2025-07-20 09:01:00,jsmith,185.231.112.45,10.0.0.5,US,login,fail,0,Windows,login fail
+2025-07-20 09:02:00,jsmith,185.231.112.45,10.0.0.5,US,login,fail,0,Windows,login fail
+2025-07-20 09:03:00,jsmith,185.231.112.45,10.0.0.5,US,login,fail,0,Windows,login fail
+2025-07-20 09:04:00,jsmith,185.231.112.45,10.0.0.5,US,login,fail,0,Windows,login fail
+2025-07-20 09:10:00,jsmith,185.231.112.45,10.0.0.5,RU,login,success,0,Windows,login success
+2025-07-20 09:47:00,svc_backup,13.47.111.60,10.0.0.5,US,login,success,0,iOS,login success
+2025-07-20 10:29:00,svc_backup,201.214.112.115,10.0.0.5,GB,login,success,0,MacOS,login success
+2025-07-20 11:16:00,fhaant,52.79.110.246,10.0.0.5,DE,login,success,0,iOS,login success
+2025-07-20 12:14:00,fhaant,66.176.135.207,10.0.0.5,US,login,success,0,iOS,login success
+2025-07-20 12:26:00,kbrown,91.150.185.148,10.0.0.5,US,data_download,success,10000,iOS,data_download success
+2025-07-20 12:48:00,kbrown,23.119.51.98,10.0.0.5,CA,login,success,0,MacOS,login success
+2025-07-20 13:15:00,mgarcia,66.107.136.180,10.0.0.5,DE,api_call,success,0,MacOS,api_call success
+2025-07-20 14:08:00,kbrown,201.125.83.119,10.0.0.5,CN,login,success,0,MacOS,login success
+2025-07-20 14:42:00,fhaant,44.16.161.103,10.0.0.5,US,file_view,success,0,Linux,file_view success
+2025-07-20 15:09:00,jsmith,44.255.202.227,10.0.0.5,DE,file_view,success,0,Android,file_view success
+2025-07-20 16:00:00,mgarcia,44.134.219.230,10.0.0.5,US,file_view,success,0,Linux,file_view success
+2025-07-20 16:47:00,mgarcia,91.252.46.194,10.0.0.5,US,api_call,success,0,MacOS,api_call success
+2025-07-20 17:00:00,sliu,72.32.197.98,10.0.0.5,GB,login,success,0,MacOS,login success
+2025-07-20 17:48:00,mgarcia,185.58.136.197,10.0.0.5,US,api_call,success,0,Android,api_call success
+2025-07-20 18:39:00,fhaant,81.1.134.249,10.0.0.5,US,login,fail,0,iOS,login fail
+2025-07-20 19:21:00,sliu,185.152.101.40,10.0.0.5,US,file_view,success,0,Android,file_view success
+2025-07-20 19:54:00,sliu,13.165.250.5,10.0.0.5,CN,file_view,success,0,Android,file_view success
+2025-07-20 20:11:00,fhaant,44.40.43.188,10.0.0.5,US,api_call,success,0,MacOS,api_call success
+2025-07-20 20:52:00,sliu,185.243.84.68,10.0.0.5,US,login,success,0,MacOS,login success
+2025-07-20 21:35:00,sliu,201.159.204.172,10.0.0.5,US,data_download,success,50000,Android,data_download success
+2025-07-20 22:26:00,fhaant,44.32.173.6,10.0.0.5,US,data_download,success,250000,Windows,data_download success
+2025-07-20 23:13:00,svc_backup,13.36.30.59,10.0.0.5,US,file_view,success,0,Android,file_view success
+2025-07-20 23:27:00,jsmith,44.142.248.55,10.0.0.5,CN,api_call,success,0,Windows,api_call success
+2025-07-21 00:11:00,adoyle,44.48.49.169,10.0.0.5,BR,data_download,success,50000,iOS,data_download success
+2025-07-21 00:48:00,fhaant,185.50.31.104,10.0.0.5,US,data_download,success,250000,iOS,data_download success
+2025-07-21 01:44:00,fhaant,91.229.71.109,10.0.0.5,US,login,success,0,MacOS,login success
+2025-07-21 02:05:00,fhaant,91.50.25.167,10.0.0.5,IN,data_download,success,50000,Windows,data_download success
+2025-07-21 02:49:00,sliu,72.248.246.55,10.0.0.5,US,login,success,0,MacOS,login success
+2025-07-21 03:24:00,jsmith,72.135.232.74,10.0.0.5,US,file_view,success,0,iOS,file_view success
+2025-07-21 04:01:00,kbrown,44.29.31.192,10.0.0.5,CA,data_download,success,50000,MacOS,data_download success
+2025-07-21 04:31:00,jsmith,91.80.29.246,10.0.0.5,CN,login,success,0,iOS,login success
+2025-07-21 05:13:00,jsmith,23.120.206.31,10.0.0.5,RU,file_view,success,0,Windows,file_view success
+2025-07-21 05:59:00,adoyle,185.161.133.53,10.0.0.5,BR,login,success,0,Windows,login success
+2025-07-21 06:51:00,kbrown,72.67.153.118,10.0.0.5,CA,api_call,success,0,MacOS,api_call success
+2025-07-21 07:21:00,sliu,102.51.37.138,10.0.0.5,RU,login,success,0,iOS,login success
+2025-07-21 07:44:00,svc_backup,23.125.189.73,10.0.0.5,DE,api_call,success,0,MacOS,api_call success
+2025-07-21 08:04:00,mgarcia,91.4.153.239,10.0.0.5,GB,api_call,success,0,Android,api_call success
+2025-07-21 08:56:00,jsmith,23.79.139.73,10.0.0.5,US,file_view,success,0,Linux,file_view success
+2025-07-21 09:44:00,adoyle,185.135.250.65,10.0.0.5,GB,api_call,success,0,MacOS,api_call success
+2025-07-21 09:57:00,jsmith,66.66.134.42,10.0.0.5,US,data_download,success,120000,Windows,data_download success
+2025-07-21 10:30:00,svc_backup,201.99.23.77,10.0.0.5,US,data_download,success,5500000,Linux,backup job?
+2025-07-21 10:54:00,mgarcia,201.76.18.214,10.0.0.5,US,data_download,success,10000,Windows,data_download success
+2025-07-21 11:27:00,svc_backup,13.157.186.231,10.0.0.5,US,file_view,success,0,iOS,file_view success
+2025-07-21 12:27:00,sliu,44.52.181.200,10.0.0.5,GB,login,fail,0,MacOS,login fail
+2025-07-21 13:12:00,sliu,34.211.12.46,10.0.0.5,US,data_download,success,50000,MacOS,data_download success
+2025-07-21 14:09:00,fhaant,201.55.195.224,10.0.0.5,US,data_download,success,50000,Linux,data_download success
+2025-07-21 14:21:00,sliu,66.156.116.58,10.0.0.5,IN,data_download,success,50000,MacOS,data_download success
+2025-07-21 14:32:00,kbrown,52.35.142.90,10.0.0.5,DE,file_view,success,0,iOS,file_view success
+2025-07-21 15:23:00,svc_backup,52.91.135.10,10.0.0.5,US,data_download,success,120000,Windows,data_download success
+2025-07-21 15:39:00,svc_backup,102.59.197.231,10.0.0.5,BR,data_download,success,120000,Linux,data_download success
+2025-07-21 16:25:00,adoyle,13.100.186.111,10.0.0.5,BR,api_call,success,0,Windows,api_call success
+2025-07-21 16:39:00,kbrown,185.63.153.130,10.0.0.5,DE,api_call,success,0,Android,api_call success
+2025-07-21 17:08:00,kbrown,91.65.98.108,10.0.0.5,CA,data_download,success,120000,iOS,data_download success
+2025-07-21 17:12:00,adoyle,23.195.123.128,10.0.0.5,US,sudo,success,0,Linux,sudo add-user root
+2025-07-21 18:00:00,mgarcia,52.207.0.78,10.0.0.5,RU,file_view,success,0,Android,file_view success
+2025-07-21 18:28:00,adoyle,81.109.242.204,10.0.0.5,IN,data_download,success,120000,iOS,data_download success
+2025-07-21 19:28:00,kbrown,91.171.47.210,10.0.0.5,CA,file_view,success,0,Windows,file_view success
+2025-07-21 20:26:00,adoyle,34.12.23.63,10.0.0.5,US,api_call,success,0,MacOS,api_call success
+2025-07-21 21:06:00,svc_backup,102.99.196.127,10.0.0.5,GB,login,fail,0,iOS,login fail
+2025-07-21 21:41:00,adoyle,72.112.90.206,10.0.0.5,US,file_view,success,0,Windows,file_view success
+2025-07-21 22:35:00,svc_backup,23.233.68.206,10.0.0.5,US,data_download,success,10000,Android,data_download success
+2025-07-21 23:14:00,kbrown,201.218.228.230,10.0.0.5,RU,api_call,success,0,iOS,api_call success
+2025-07-21 23:34:00,kbrown,185.141.248.161,10.0.0.5,US,data_download,success,250000,Linux,data_download success
+2025-07-21 23:59:00,fhaant,52.171.163.229,10.0.0.5,US,data_download,success,10000,Linux,data_download success
+2025-07-22 00:43:00,jsmith,72.78.109.17,10.0.0.5,US,file_view,success,0,MacOS,file_view success
+2025-07-22 01:19:00,mgarcia,72.31.105.214,10.0.0.5,IN,api_call,success,0,Android,api_call success
+2025-07-22 01:55:00,mgarcia,13.180.152.193,10.0.0.5,IN,login,success,0,iOS,login success
+2025-07-22 02:29:00,sliu,52.223.248.8,10.0.0.5,US,data_download,success,50000,iOS,data_download success
+2025-07-22 03:03:00,fhaant,102.13.201.152,10.0.0.5,US,data_download,success,50000,iOS,data_download success
+2025-07-22 03:49:00,kbrown,81.93.25.67,10.0.0.5,US,login,success,0,iOS,login success
+2025-07-22 04:23:00,fhaant,66.194.142.193,10.0.0.5,DE,file_view,success,0,iOS,file_view success
+2025-07-22 04:59:00,fhaant,13.179.114.167,10.0.0.5,CN,login,fail,0,Windows,login fail
+2025-07-22 05:13:00,sliu,13.78.122.33,10.0.0.5,US,login,success,0,MacOS,login success
+2025-07-22 05:53:00,kbrown,201.131.188.43,10.0.0.5,IN,login,success,0,MacOS,login success
+2025-07-22 06:41:00,svc_backup,102.13.159.148,10.0.0.5,US,login,success,0,Linux,login success
+2025-07-22 07:34:00,mgarcia,201.124.52.179,10.0.0.5,RU,data_download,success,50000,Windows,data_download success
+2025-07-22 08:33:00,fhaant,91.219.189.18,10.0.0.5,DE,login,success,0,Windows,login success
+2025-07-22 09:15:00,kbrown,81.54.221.246,10.0.0.5,BR,api_call,success,0,Windows,api_call success
+2025-07-22 09:48:00,kbrown,201.138.247.120,10.0.0.5,US,data_download,success,50000,iOS,data_download success
+2025-07-22 10:25:00,sliu,23.142.230.63,10.0.0.5,US,api_call,success,0,Linux,api_call success
+2025-07-22 11:23:00,mgarcia,66.93.249.55,10.0.0.5,IN,data_download,success,120000,Windows,data_download success
+2025-07-22 11:55:00,sliu,102.141.5.133,10.0.0.5,CA,api_call,success,0,Linux,api_call success
+2025-07-22 12:17:00,jsmith,91.123.243.166,10.0.0.5,IN,file_view,success,0,iOS,file_view success
+2025-07-22 13:12:00,mgarcia,44.207.124.79,10.0.0.5,CA,data_download,success,10000,Windows,data_download success
+2025-07-22 14:04:00,svc_backup,91.176.217.191,10.0.0.5,CN,api_call,success,0,iOS,api_call success
+2025-07-22 14:49:00,fhaant,52.128.118.31,10.0.0.5,CA,api_call,success,0,iOS,api_call success
+2025-07-22 15:45:00,adoyle,201.94.98.56,10.0.0.5,CN,api_call,success,0,Windows,api_call success
+2025-07-22 16:42:00,mgarcia,102.144.51.214,10.0.0.5,CN,api_call,success,0,Android,api_call success
+2025-07-22 17:04:00,fhaant,52.7.64.71,10.0.0.5,US,file_view,success,0,Linux,file_view success
+2025-07-22 17:16:00,jsmith,81.52.6.147,10.0.0.5,GB,api_call,success,0,MacOS,api_call success
+2025-07-22 17:44:00,mgarcia,13.129.244.30,10.0.0.5,US,data_download,success,250000,Linux,data_download success
+2025-07-22 17:58:00,mgarcia,185.27.77.39,10.0.0.5,GB,data_download,success,10000,Android,data_download success
+2025-07-22 18:44:00,fhaant,72.115.194.116,10.0.0.5,CN,login,success,0,Windows,login success
+2025-07-22 19:22:00,fhaant,13.50.106.161,10.0.0.5,RU,data_download,success,120000,Android,data_download success
+2025-07-22 19:45:00,fhaant,91.38.80.1,10.0.0.5,US,login,success,0,MacOS,login success
+2025-07-22 20:21:00,mgarcia,52.144.232.19,10.0.0.5,US,data_download,success,120000,Windows,data_download success
+2025-07-22 21:14:00,adoyle,44.217.58.140,10.0.0.5,GB,api_call,success,0,Android,api_call success
+2025-07-22 21:38:00,kbrown,23.30.84.203,10.0.0.5,US,file_view,success,0,Linux,file_view success
+2025-07-22 22:07:00,svc_backup,81.155.206.242,10.0.0.5,US,api_call,success,0,iOS,api_call success
+2025-07-22 22:34:00,svc_backup,13.221.165.155,10.0.0.5,RU,data_download,success,250000,Windows,data_download success
+2025-07-22 23:00:00,jsmith,13.137.20.196,10.0.0.5,RU,login,success,0,Android,login success
+2025-07-22 23:58:00,adoyle,102.223.251.249,10.0.0.5,US,data_download,success,250000,Linux,data_download success
+2025-07-23 00:13:00,mgarcia,66.53.82.85,10.0.0.5,DE,api_call,success,0,iOS,api_call success
+2025-07-23 00:49:00,kbrown,13.232.45.81,10.0.0.5,CN,data_download,success,120000,iOS,data_download success
+2025-07-23 01:15:00,fhaant,185.236.211.14,10.0.0.5,US,login,fail,0,Android,login fail
+2025-07-23 01:37:00,svc_backup,185.226.26.53,10.0.0.5,IN,api_call,success,0,Android,api_call success
+2025-07-23 02:04:00,svc_backup,201.248.62.8,10.0.0.5,IN,file_view,success,0,Linux,file_view success
+2025-07-23 02:54:00,svc_backup,91.7.208.24,10.0.0.5,CA,file_view,success,0,MacOS,file_view success
+2025-07-23 03:18:00,sliu,34.255.149.131,10.0.0.5,GB,login,fail,0,Windows,login fail
+2025-07-23 04:13:00,fhaant,81.74.196.49,10.0.0.5,US,data_download,success,250000,iOS,data_download success
+2025-07-23 05:01:00,svc_backup,72.174.136.211,10.0.0.5,CA,file_view,success,0,Windows,file_view success
+2025-07-23 05:11:00,fhaant,185.250.76.115,10.0.0.5,RU,api_call,success,0,Android,api_call success
+2025-07-23 05:55:00,mgarcia,91.193.233.239,10.0.0.5,CN,api_call,success,0,Linux,api_call success
+2025-07-23 06:25:00,sliu,72.119.210.12,10.0.0.5,RU,file_view,success,0,MacOS,file_view success
+2025-07-23 06:55:00,kbrown,185.77.253.247,10.0.0.5,GB,data_download,success,250000,iOS,data_download success
+2025-07-23 07:07:00,adoyle,23.233.7.185,10.0.0.5,IN,api_call,success,0,Windows,api_call success
+2025-07-23 07:26:00,mgarcia,52.173.203.167,10.0.0.5,IN,file_view,success,0,Windows,file_view success
+2025-07-23 07:41:00,sliu,66.249.18.159,10.0.0.5,BR,api_call,success,0,Android,api_call success
+2025-07-23 07:55:00,adoyle,72.50.51.114,10.0.0.5,US,api_call,success,0,MacOS,api_call success
+2025-07-23 08:15:00,kbrown,66.28.150.92,10.0.0.5,US,api_call,success,0,Windows,api_call success
+2025-07-23 08:48:00,mgarcia,72.92.87.45,10.0.0.5,CN,file_view,success,0,MacOS,file_view success
+2025-07-23 09:30:00,adoyle,44.236.130.118,10.0.0.5,CA,login,success,20000,Linux,auto
+2025-07-23 10:09:00,adoyle,23.226.176.253,10.0.0.5,RU,api_call,success,20000,Linux,auto
+2025-07-23 10:43:00,sliu,52.101.196.219,10.0.0.5,IN,login,fail,5000,Android,auto
+2025-07-23 11:06:00,kbrown,52.11.202.71,10.0.0.5,US,sudo,success,0,Android,auto
+2025-07-23 11:42:00,sliu,52.117.180.57,10.0.0.5,GB,file_view,success,0,Windows,auto
+2025-07-23 12:27:00,kbrown,13.158.225.9,10.0.0.5,RU,api_call,success,0,Linux,auto
+2025-07-23 12:52:00,kbrown,72.89.102.34,10.0.0.5,CN,api_call,success,5000,MacOS,auto
+2025-07-23 13:13:00,sliu,81.151.173.206,10.0.0.5,US,data_download,success,0,MacOS,auto
+2025-07-23 13:43:00,sliu,91.187.46.203,10.0.0.5,BR,login,success,20000,Linux,auto
+2025-07-23 14:04:00,svc_backup,72.190.55.173,10.0.0.5,US,data_download,fail,5000,Android,auto
+2025-07-23 14:23:00,kbrown,23.237.154.167,10.0.0.5,BR,login,success,5000,iOS,auto
+2025-07-23 14:35:00,jsmith,44.69.198.117,10.0.0.5,DE,sudo,fail,0,iOS,auto
+2025-07-23 14:46:00,sliu,81.208.143.9,10.0.0.5,DE,file_view,success,5000,Windows,auto
+2025-07-23 15:14:00,svc_backup,185.183.31.102,10.0.0.5,CA,file_view,success,20000,Windows,auto
+2025-07-23 15:32:00,kbrown,185.10.25.202,10.0.0.5,DE,file_view,success,100000,MacOS,auto
+2025-07-23 15:41:00,sliu,91.106.110.209,10.0.0.5,US,api_call,success,100000,Windows,auto
+2025-07-23 16:03:00,sliu,34.66.128.205,10.0.0.5,US,login,success,0,MacOS,auto
+2025-07-23 16:08:00,fhaant,44.165.8.45,10.0.0.5,CA,login,success,100000,Windows,auto
+2025-07-23 16:17:00,mgarcia,81.185.55.116,10.0.0.5,CN,file_view,success,0,Android,auto
+2025-07-23 16:41:00,mgarcia,185.15.31.123,10.0.0.5,BR,data_download,success,20000,iOS,auto
+2025-07-23 16:50:00,jsmith,66.75.33.33,10.0.0.5,CA,sudo,success,100000,Linux,auto
+2025-07-23 17:19:00,svc_backup,91.150.232.130,10.0.0.5,RU,data_download,fail,0,Android,auto
