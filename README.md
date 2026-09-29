@@ -1,5 +1,8 @@
 # 🤖 AI Incident Response Agents
 
+This repository serves as a sanitized, production-ready reference architecture built to demonstrate enterprise agentic patterns. 
+It mirrors the architectural designs, multi-agent state machines, and evaluation frameworks I deploy in enterprise environments, stripped of proprietary data and corporate logic.
+
 > **Automated cybersecurity threat detection using AI agents** - Perfect for SOC teams, security professionals, and anyone interested in AI-powered security!
 
 ## 🎯 What This Does
